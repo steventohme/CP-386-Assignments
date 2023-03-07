@@ -1,0 +1,82 @@
+The output of: uname -a is
+>>>>>>>>>>>>>>>
+Linux 300bf729b17a 5.10.124-linuxkit #1 SMP PREEMPT Thu Jun 30 08:18:26 UTC 2022 aarch64 aarch64 aarch64 GNU/Linux
+<<<<<<<<<<<<<<<
+The output of: free -m is
+>>>>>>>>>>>>>>>
+               total        used        free      shared  buff/cache   available
+Mem:            3933         530        2639         328         763        2934
+Swap:           1023           0        1023
+<<<<<<<<<<<<<<<
+The output of: ls -l -a -F is
+>>>>>>>>>>>>>>>
+total 60
+drwxr-xr-x 11 vscode vscode   352 Oct 18 05:08 ./
+drwxr-xr-x  7 vscode vscode   224 Oct 17 16:19 ../
+-rwxr-xr-x  1 vscode vscode 13560 Oct  5 15:09 assignment_average*
+-rw-r--r--  1 vscode vscode  2103 Oct  5 15:10 assignment_average.c
+-rw-r--r--  1 vscode vscode   716 Oct  4 22:25 makefile
+-rw-r--r--  1 vscode vscode     0 Oct 19 18:45 output.txt
+-rwxr-xr-x  1 vscode vscode 14272 Oct 18 05:08 process_management*
+-rw-r--r--  1 vscode vscode  4149 Oct 19 18:45 process_management.c
+-rw-r--r--  1 vscode vscode   165 Oct 18 05:08 redirected_output.txt
+-rw-r--r--  1 vscode vscode   184 Oct  4 23:13 sample_in_grades.txt
+-rw-r--r--  1 vscode vscode    66 Oct 17 16:20 sample_in_process.txt
+<<<<<<<<<<<<<<<
+The output of: whoami is
+>>>>>>>>>>>>>>>
+vscode
+<<<<<<<<<<<<<<<
+The output of: pwd is
+>>>>>>>>>>>>>>>
+/workspaces/CP386/a2
+<<<<<<<<<<<<<<<
+The output of: ls > redirected_output.txt is
+>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<
+The output of: uname -a : is
+>>>>>>>>>>>>>>>
+Linux
+<<<<<<<<<<<<<<<
+The output of: free -m : is
+>>>>>>>>>>>>>>>
+               total        used        free      shared  buff/cache   available
+Mem:         4027704      531052     2696692      335944      799960     3017024
+Swap:        1048572           0     1048572
+<<<<<<<<<<<<<<<
+The output of: ls -l -a -F : is
+>>>>>>>>>>>>>>>
+assignment_average
+assignment_average.c
+makefile
+output.txt
+process_management
+process_management_1
+process_management_1.c
+process_management.c
+redirected_output.txt
+sample_in_grades.txt
+sample_in_process.txt
+<<<<<<<<<<<<<<<
+The output of: whoami : is
+>>>>>>>>>>>>>>>
+vscode
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/workspaces/CP386/a2
+<<<<<<<<<<<<<<<
+The output of: ls > redirected_output.txt : is
+>>>>>>>>>>>>>>>
+assignment_average
+assignment_average.c
+makefile
+output.txt
+process_management
+process_management_1
+process_management_1.c
+process_management.c
+redirected_output.txt
+sample_in_grades.txt
+sample_in_process.txt
+<<<<<<<<<<<<<<<

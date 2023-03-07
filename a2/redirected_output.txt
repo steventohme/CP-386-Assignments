@@ -1,0 +1,9 @@
+assignment_average
+assignment_average.c
+makefile
+output.txt
+process_management
+process_management.c
+redirected_output.txt
+sample_in_grades.txt
+sample_in_process.txt
